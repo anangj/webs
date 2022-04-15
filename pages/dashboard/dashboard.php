@@ -148,10 +148,10 @@
                     <i class="fa fa-graduation-cap"></i>
                   </div>
                   <div class="mr-5">
-                  SMK Negeri 14
+                  SMA Negeri 25
                   </div>
                 </div>
-                <a class="card-footer text-white clearfix small z-1" href="?page=smk14">
+                <a class="card-footer text-white clearfix small z-1" href="?page=sma25">
                   <span class="float-left">Lihat Website</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
@@ -300,10 +300,10 @@
                     <i class="fa fa-graduation-cap"></i>
                   </div>
                   <div class="mr-5">
-                  SMK Negeri 2
+                  SMA Negeri 20
                   </div>
                 </div>
-                <a class="card-footer text-white clearfix small z-1" href="?page=smk2">
+                <a class="card-footer text-white clearfix small z-1" href="?page=sma20">
                   <span class="float-left">Lihat Website</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>

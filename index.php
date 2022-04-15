@@ -36,11 +36,11 @@
         }else if($page == "smk3"){
           echo "SMK Negeri 3 Jakarta Pusat";
         }
-        else if($page == "smk2"){
-          echo "SMK Negeri 3 Jakarta";
+        else if($page == "sma20"){
+          echo "SMA Negeri 2";
         }
-        else if($page == "smk14"){
-          echo "SMK Negeri 14";
+        else if($page == "sma25"){
+          echo "SMA Negeri 25";
         }
         else if($page == "sma1"){
           echo "SMA Negeri 1";
@@ -249,9 +249,9 @@
                 include "pages/404.php";
               }
             }
-            else if($page == "smk14"){
+            else if($page == "sma25"){
               if($action == ""){
-                include "pages/sekolah/smk14.php";
+                include "pages/sekolah/sma25.php";
               }else {
                 include "pages/404.php";
               }
@@ -305,9 +305,9 @@
                 include "pages/404.php";
               }
             }
-            else if($page == "smk2"){
+            else if($page == "sma20"){
               if($action == ""){
-                include "pages/sekolah/smk2.php";
+                include "pages/sekolah/sma20.php";
               }else {
                 include "pages/404.php";
               }
